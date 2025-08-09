@@ -50,6 +50,4 @@ index.html      # Main HTML file
 - Email: m.baobaid@outlook.com
 
 ## License
-**Recommended License:** MIT License — simple, permissive, and widely used for open source projects. It allows others to use, modify, and distribute your code with minimal restrictions, while protecting you from liability.
-
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
